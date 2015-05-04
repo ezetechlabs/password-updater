@@ -1,0 +1,13 @@
+{
+    "name": "adamwathan/password-updater",
+    "require": {
+        "illuminate/contracts": "~5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Wathan",
+            "email": "adam.wathan@gmail.com"
+        }
+    ]
+}
